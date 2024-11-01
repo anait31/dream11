@@ -1,0 +1,122 @@
+[
+    {
+        "playerId": 1,
+        "name": "Virat Kohli",
+        "country": "India",
+        "image": "https://c.ndtvimg.com/2019-08/p0jiakh8_virat-kohli-afp_625x300_11_August_19.jpg",
+        "role": "Batsman",
+        "battingType": "Right-Handed",
+        "bowlingType": "N/A",
+        "biddingPrice": 360000
+    },
+    {
+        "playerId": 2,
+        "name": "Ben Stokes",
+        "country": "England",
+        "image": "https://wallpapers.com/images/hd/ben-stokes-in-light-blue-uniform-4kjht8xstu2eveb2.jpg",
+        "role": "All-Rounder",
+        "battingType": "Left-Handed",
+        "bowlingType": "Right-Arm Medium",
+        "biddingPrice": 130000
+    },
+    {
+        "playerId": 3,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "image": "https://media.gettyimages.com/id/632750366/photo/adelaide-australia-babar-azam-of-pakistan-celebrates-after-reaching-100-runs-during-game-five.jpg?s=612x612&w=gi&k=20&c=zEp1vVoYPe0CNYpxUxzU6q8RIMZmLQGhYj5_EL0AofM=",
+        "role": "Batsman",
+        "battingType": "Right-Handed",
+        "bowlingType": "N/A",
+        "biddingPrice": 560000
+    },
+    {
+        "playerId": 4,
+        "name": "Kagiso Rabada",
+        "country": "South Africa",
+        "image": "https://media.gettyimages.com/id/1748467996/photo/mumbai-india-kagiso-rabada-of-south-africa-celebrates-the-wicket-of-ben-stokes-of-england.jpg?s=612x612&w=gi&k=20&c=wn-LBTpiw1XXiJjYf4BkPmAtp-FlTcl2MW2IRDHbUtk=",
+        "role": "Bowler",
+        "battingType": "Right-Handed",
+        "bowlingType": "Right-Arm Fast",
+        "biddingPrice": 710000
+    },
+    {
+        "playerId": 5,
+        "name": "Rohit Sharma",
+        "country": "India",
+        "image": "https://crictoday.com/wp-content/uploads/2022/03/Rohit-Sharma.jpg",
+        "role": "Batsman",
+        "battingType": "Right-Handed",
+        "bowlingType": "N/A",
+        "biddingPrice": 190000
+    },
+    {
+        "playerId": 6,
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "image": "https://c.ndtvimg.com/2024-06/dlsrhcqo_jasprit-bumrah-afp_625x300_21_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+        "role": "Bowler",
+        "battingType": "Right-Handed",
+        "bowlingType": "Right-Arm Fast",
+        "biddingPrice": 170000
+    },
+    {
+        "playerId": 7,
+        "name": "David Warner",
+        "country": "Australia",
+        "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r900xfq60/89cb258a-22ff-4d06-a3c7-6ef2d9fb6b60.jpeg",
+        "role": "Batsman",
+        "battingType": "Left-Handed",
+        "bowlingType": "N/A",
+        "biddingPrice": 380000
+    },
+    {
+        "playerId": 8,
+        "name": "Shane Watson",
+        "country": "Australia",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2018-04/21/full/1524305103-3372.jpg?im=FeatureCrop,size=(826,465)",
+        "role": "All-Rounder",
+        "battingType": "Right-Handed",
+        "bowlingType": "Right-Arm Medium",
+        "biddingPrice": 490000
+    },
+    {
+        "playerId": 9,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "image": "https://wallpapers.com/images/hd/new-zealand-cricket-star-kane-williamson-3bptnocb06mr3lz4.jpg",
+        "role": "Batsman",
+        "battingType": "Right-Handed",
+        "bowlingType": "N/A",
+        "biddingPrice": 610000
+    },
+    {
+        "playerId": 10,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "image": "https://crictoday.com/wp-content/uploads/2023/02/rashid-khan-resigns-as-afghanistan-captain-for-t20-world-cup-with-immediate-effect-3.webp",
+        "role": "Bowler",
+        "battingType": "Right-Handed",
+        "bowlingType": "Right-Arm Leg Spin",
+        "biddingPrice": 20000
+    },
+    {
+        "playerId": 11,
+        "name": "Pat Cummins",
+        "country": "Australia",
+        "image": "https://images.thequint.com/thequint%2F2023-03%2Ff11ff1ba-e9e3-4862-abaa-86a044e1367e%2F_AI_0119.jpg",
+        "role": "Bowler",
+        "battingType": "Right-Handed",
+        "bowlingType": "Right-Arm Fast",
+        "biddingPrice": 90000
+    },
+    {
+        "playerId": 12,
+        "name": "Shubman Gill",
+        "country": "India",
+        "image": "https://c.ndtvimg.com/2023-10/17nn0j58_shubman-gill-ani_640x480_09_October_23.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+        "role": "Batsman",
+        "battingType": "Right-Handed",
+        "bowlingType": "N/A",
+        "biddingPrice": 10000
+    }
+]
